@@ -1,0 +1,22 @@
+## Conclusion
+
+This project analyzed pizza sales data to uncover key insights:
+
+- **Total Revenue**: $817.86K
+- **Average Order Value**: $38.31
+- **Total Pizzas Sold**: 49,574
+- **Total Orders**: 21,350
+
+### Key Trends
+- **Peak Orders**: Fridays (3.5K), lowest on Sundays (2.6K)
+- **Monthly High**: August (1,935 orders), low in October (1,646)
+
+### Sales Breakdown
+- **Top Category**: Classic (26.91%)
+- **Top Size**: Large (45.89%)
+
+### Insights
+- Focus promotions on weekends and bestsellers (Classic, Large pizzas).
+- Consider seasonal promotions to balance monthly sales.
+
+These insights will guide data-driven decisions to optimize business strategies.

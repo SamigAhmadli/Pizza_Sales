@@ -1,0 +1,4 @@
+# Project Description
+
+This project analyzes and visualizes key indicators of our pizza sales data to gain insights into business performance. By examining various metrics and trends, we can better understand customer preferences, identify peak sales periods, and evaluate the performance of different pizza categories and sizes.
+

@@ -1,0 +1,52 @@
+# Results and Insights
+
+## Key Metrics
+- **Total Revenue**: $817.86K
+- **Average Order Value**: $38.31
+- **Total Pizzas Sold**: 49,574
+- **Total Orders**: 21,350
+- **Average Pizzas Per Order**: 2.32
+
+## Trends
+
+### Daily Trend for Total Orders
+- The number of total orders peaks on Friday with 3.5K orders.
+- The lowest number of orders is on Sunday with 2.6K.
+
+### Monthly Trend for Total Orders
+- August sees the highest number of total orders at 1,935.
+- The lowest number of total orders occurs in October with 1,646.
+
+## Sales Breakdown
+
+### Sales by Pizza Category
+- **Classic**: 26.91%
+- **Supreme**: 25.46%
+- **Chicken**: 23.96%
+- **Veggie**: 23.68%
+
+### Sales by Pizza Size
+- **Large**: 45.89%
+- **Medium**: 30.49%
+- **Regular**: 21.77%
+- **X-Large**: 1.72%
+- **XX-Large**: 0.12%
+
+### Total Pizzas Sold by Category
+- **Classic**: 14,888 units
+- **Supreme**: 11,987 units
+- **Veggie**: 11,649 units
+- **Chicken**: 11,050 units
+
+## Busiest Days & Times
+- **Days**: Orders are highest on the weekend, especially Friday and Saturday evenings.
+- **Monthly**: Maximum orders are recorded in July and January.
+
+## Sales Performance
+- **Category**: The Classic category contributes the most to both sales and total orders.
+- **Size**: Large-size pizzas generate the highest sales.
+
+## Insights
+- The highest sales occur on weekends, especially Fridays. This suggests that promotions or additional staffing might be useful on those days.
+- Classic and Large pizzas are the bestsellers, so focusing marketing and offers on these might boost sales even more.
+- August has the highest monthly orders, while October is the slowest. Seasonal promotions could help balance these months.

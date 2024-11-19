@@ -1,0 +1,10 @@
+# Methodology
+
+## Data Extraction
+Data was extracted from the database using SQL queries. The queries were designed to retrieve relevant information from the `pizza_sales` table, including total revenue, average order value, total pizzas sold, and more.
+
+## Data Transformation
+Data was cleaned and transformed using SQL scripts to ensure consistency and accuracy. This involved handling missing values, correcting data types, and aggregating data to calculate key metrics.
+
+## Data Visualization
+Power BI was used to create interactive dashboards and visualizations. The visualizations were designed to provide insights into sales performance, customer preferences, and operational efficiency. Key charts included bar charts, line charts, pie charts, and funnel charts.

@@ -1,0 +1,18 @@
+# Data Description
+
+## Pizza Sales Data
+- **File Name**: pizza_sales.csv
+- **Description**: Contains detailed information about pizza sales, including order details, pizza details, and sales metrics.
+- **Columns**:
+  - `pizza_id`: Unique identifier for each pizza.
+  - `order_id`: Unique identifier for each order.
+  - `pizza_name_id`: Identifier for the pizza name.
+  - `quantity`: Quantity of the pizza ordered.
+  - `order_date`: Date when the order was placed.
+  - `order_time`: Time when the order was placed.
+  - `unit_price`: Price per unit of the pizza.
+  - `total_price`: Total price of the order.
+  - `pizza_size`: Size of the pizza (e.g., Small, Medium, Large).
+  - `pizza_category`: Category of the pizza (e.g., Classic, Supreme, Veggie, Chicken).
+  - `pizza_ingredients`: Ingredients used in the pizza.
+  - `pizza_name`: Name of the pizza.
